@@ -1,17 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+30 Septomber 
 
 ### Project Title
-Replace the Project Title
+Explore US bikeshare
 
 ### Description
-Describe what your project is about and what it does
-
+This interactive Python program allows users to explore descriptive statistics for
+bikeshare data across three major cities: Chicago, New York, and Washington.This program is easy to use and lets users choose a city to explore bikeshare data. They can see different
+details like popular travel times, station usage, trip durations.
 ### Files used
-Include the files used
+data files in csv 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://docs.python.org/3/tutorial/controlflow.html
+https://numpy.org/devdocs/user/absolute_beginners.html
